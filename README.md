@@ -1,5 +1,6 @@
 one-page-app
 ============
+I'm Patricia with Coding Over 40 www.codingover40.com and I will be using this repository to create a one page app for my portfolio. THANK YOU!
 
 A one page app boilerplate for Web or mobile using HTML5, Twitter Bootstrap, jQuery and Javascript on Node.js
 
